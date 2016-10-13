@@ -12,5 +12,6 @@ Replay: R
 
 Restart: Shift + R
 
+[EDIT]: Doesn't actually work on some computers (significantly unfortunate)
 
 Jonathan, Head of Dam Son Games
